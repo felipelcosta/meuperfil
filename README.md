@@ -1,2 +1,2 @@
-# meuperfil
-Um pouco sobre a minha historia
+# Meu Perfil
+Um pouco sobre a minha historia!
